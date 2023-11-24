@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://highmax.top/posts/xiao-xiao-sui-xie.html</loc>
+    
+    <lastmod>2023-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://highmax.top/posts/li-liang-shu-ru.html</loc>
     
     <lastmod>2023-10-09</lastmod>
@@ -139,7 +148,7 @@
 
   <url>
     <loc>https://highmax.top/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -147,70 +156,70 @@
   
   <url>
     <loc>https://highmax.top/tags/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/Typora/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/Hexo%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E6%91%98%E6%8A%84/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E7%BE%8E%E5%8F%A5%E6%AC%A3%E8%B5%8F/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/hexo%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E6%BC%AB%E8%B0%88/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E8%A1%8C%E4%B8%9A/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://highmax.top/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%BF/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -219,7 +228,7 @@
   
   <url>
     <loc>https://highmax.top/categories/Markdown/</loc>
-    <lastmod>2023-10-09</lastmod>
+    <lastmod>2023-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
