@@ -6,7 +6,7 @@
   <link href="https://highmax.top/atom.xml" rel="self"/>
   
   <link href="https://highmax.top/"/>
-  <updated>2023-11-24T09:37:06.680Z</updated>
+  <updated>2023-12-08T08:48:20.730Z</updated>
   <id>https://highmax.top/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图床测试</title>
+    <link href="https://highmax.top/posts/tu-chuang-ce-shi.html"/>
+    <id>https://highmax.top/posts/tu-chuang-ce-shi.html</id>
+    <published>2023-12-08T08:45:05.000Z</published>
+    <updated>2023-12-08T08:48:20.730Z</updated>
+    
+    <content type="html"><![CDATA[<p>准备在网站上放一系列图片</p><p>如果只是上传，可能速度很慢</p><p>所以用了图床</p><p>现在做一个测试</p><p><strong>1.本地上传</strong></p><p><img src="C:\Users\sunjie\Desktop\JayChou.jpeg"></p><p><strong>2.markdown直链</strong></p><p><img src="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"></p><p><strong>3.markdown link</strong></p><p><a href="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"><img src="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;准备在网站上放一系列图片&lt;/p&gt;
+&lt;p&gt;如果只是上传，可能速度很慢&lt;/p&gt;
+&lt;p&gt;所以用了图床&lt;/p&gt;
+&lt;p&gt;现在做一个测试&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.本地上传&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;C:&#92;Users&#92;sunjie&#92;Desktop&#92;Ja</summary>
+      
+    
+    
+    
+    
+    <category term="Hexo使用技术" scheme="https://highmax.top/tags/Hexo%E4%BD%BF%E7%94%A8%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Typora" scheme="https://highmax.top/tags/Typora/"/>
+    
+  </entry>
   
   <entry>
     <title>小小随写</title>

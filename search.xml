@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>图床测试</title>
+      <link href="/posts/tu-chuang-ce-shi.html"/>
+      <url>/posts/tu-chuang-ce-shi.html</url>
+      
+        <content type="html"><![CDATA[<p>准备在网站上放一系列图片</p><p>如果只是上传，可能速度很慢</p><p>所以用了图床</p><p>现在做一个测试</p><p><strong>1.本地上传</strong></p><p><img src="C:\Users\sunjie\Desktop\JayChou.jpeg"></p><p><strong>2.markdown直链</strong></p><p><img src="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"></p><p><strong>3.markdown link</strong></p><p><a href="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"><img src="https://pic.imgdb.cn/item/6572d326c458853aef1b3402.jpg"></a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo使用技术 </tag>
+            
+            <tag> Typora </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>小小随写</title>
       <link href="/posts/xiao-xiao-sui-xie.html"/>
       <url>/posts/xiao-xiao-sui-xie.html</url>
