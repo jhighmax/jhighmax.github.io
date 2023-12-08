@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://highmax.top/posts/hun-sha-zhao-jing-xiu-bu-fen.html</loc>
+    
+    <lastmod>2023-12-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://highmax.top/posts/tu-chuang-ce-shi.html</loc>
     
     <lastmod>2023-12-08</lastmod>
@@ -228,6 +237,13 @@
   
   <url>
     <loc>https://highmax.top/tags/%E8%87%AA%E6%88%91%E6%88%90%E9%95%BF/</loc>
+    <lastmod>2023-12-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://highmax.top/tags/%E7%88%B1%E6%83%85/</loc>
     <lastmod>2023-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
