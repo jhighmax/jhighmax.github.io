@@ -6,7 +6,7 @@
   <link href="https://highmax.top/atom.xml" rel="self"/>
   
   <link href="https://highmax.top/"/>
-  <updated>2023-12-08T09:06:36.946Z</updated>
+  <updated>2024-06-16T10:17:36.583Z</updated>
   <id>https://highmax.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一篇随笔</title>
+    <link href="https://highmax.top/posts/yi-pian-sui-bi.html"/>
+    <id>https://highmax.top/posts/yi-pian-sui-bi.html</id>
+    <published>2024-06-16T10:15:14.000Z</published>
+    <updated>2024-06-16T10:17:36.583Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久没上线写随笔了<br>上周阿里云提醒我续费域名<br>我续了一下<br>准备有空的时候再搞一下网页加速<br>还有最好能把部署上云<br>这样浏览会更快<br>数据存储也会安全</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;好久没上线写随笔了&lt;br&gt;上周阿里云提醒我续费域名&lt;br&gt;我续了一下&lt;br&gt;准备有空的时候再搞一下网页加速&lt;br&gt;还有最好能把部署上云&lt;br&gt;这样浏览会更快&lt;br&gt;数据存储也会安全&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://highmax.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
   
   <entry>
     <title>婚纱照精修（部分）</title>

@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>一篇随笔</title>
+      <link href="/posts/yi-pian-sui-bi.html"/>
+      <url>/posts/yi-pian-sui-bi.html</url>
+      
+        <content type="html"><![CDATA[<p>好久没上线写随笔了<br>上周阿里云提醒我续费域名<br>我续了一下<br>准备有空的时候再搞一下网页加速<br>还有最好能把部署上云<br>这样浏览会更快<br>数据存储也会安全</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>婚纱照精修（部分）</title>
       <link href="/posts/hun-sha-zhao-jing-xiu-bu-fen.html"/>
       <url>/posts/hun-sha-zhao-jing-xiu-bu-fen.html</url>
