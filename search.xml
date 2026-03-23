@@ -4,6 +4,38 @@
   
     
     <entry>
+      <title>Hello World</title>
+      <link href="/posts/hello-world.html"/>
+      <url>/posts/hello-world.html</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>观看辩论赛的感悟</title>
+      <link href="/posts/guan-kan-bian-lun-sai-de-gan-wu.html"/>
+      <url>/posts/guan-kan-bian-lun-sai-de-gan-wu.html</url>
+      
+        <content type="html"><![CDATA[<p>之前在交大公众号上了解到有一场“联合杯”30周年辩论赛，因为很久没看辩论赛，同时想了解现在辩论赛的形式和年轻人的风格是怎样的，于是报名观赛。</p><p>我自己之前也有几次辩论和演讲等表达类比赛的经历。初中、大学时都参加过辩论赛，初二的时候语文老师对我比较好，让我既当主持人又当参赛者，小打小闹。大一时因临时组队和准备匆忙，好像没获什么奖，同时还参加了一场演讲比赛，拿了个三等奖。不过，我始终觉得自己的表达能力不算突出。在工作中，我的性格既不偏内向也不是特别外向，像这类表达情境，如果没有提前准备就会非常仓促，但做好准备后脱稿发言，也能拿得出手。</p><p>基于对语言表达能力的慕强和学习的心态，就这样满怀期待回到交大。话说现在交通相当便利，工作地点又离学校近，我经常回学校，感受一下校园的氛围，也得益于学校和闵行之间的友好连接。</p><p>对于这场比赛，我事先有所思考。辩题是“人生应是旷野”（正方船建学院团队）和“人生应有轨道”（反方凯原法学院队）。通常辩论赛的辩题会从客观上有一种对错或难易的倾向性，这次我觉得双方获胜的可能性和难易程度相当。赛后有一位评委提到，理想状态应该是“人生到处是旷野，但旷野上铺满了轨道”。从比赛过程看，双方在整场各环节中基本势均力敌，没有压倒性优势，最终，五位评委投票，正方获得8票，反方获得7票，正方获胜。</p><p>这场比赛中，有四位辩手给我留下深刻印象，正方的两位男生和反方的两位女生。正方一辩男生反应极为灵敏，能迅速回应对方辩手的质疑；正方二辩论据充分，面对犀利质询时逻辑缜密。反方二辩同样能用缜密的例子和精准的思维回应质询。最亮眼的当属反方四辩，不仅思维缜密、进攻犀利，在总结陈词时更是别出心裁。</p><p>她在四分半钟的总结陈词中大量篇幅讲述自己大学时在贵州贫困山区支教的经历：当地孩子只有高考这一条“轨道”，高考失败后，男生回家种地，女生回家带娃；相比之下，作为上海本地人的她，选择更为多样，确实相当于旷野。到这里时，她指出，所谓“人生应是旷野”对山区孩子来说更多是苛责而非选择，因为他们没有真正的解决路径去跳出“轨道”，反而经常以“为什么我没有勇气跳出大山”“为什么我只能困在这里”作为一种自责和埋怨去应对难以改变的现实，这种类似的心理也能推广到社会上许多想要改变但出于种种因素难以改变的人 。她还提到，对于教育等社会结构性问题，需要通过搭建更多“轨道”来解决，比如像张桂梅那样为山区孩子铺设通往大学的轨道。虽然部分观点有些绝对，但她以充满激情、半脱稿、感性与理性交织的方式，完成了四分半钟的总结陈词，赢得全场最久的掌声，成为一大亮点。</p><p>这场辩论赛让我感到欣喜和收获满满的同时，也引发了我一些思考，辩论主旨的深度剖析和理解我不多说，两者并没有绝对的对错高低，优势劣势也能想象的出来。</p><p>仅谈一下反方四辩给我的印象，她总结陈词的新意，让我联想到《士兵突击》里的成才，当时老A队长袁朗在第二次遇到他归队时，认为成才没有真正改变自私不顾别人的品德，所表现出来的悔悟与平淡只是一种假象，是因为他知道这是袁朗自己想看到的样子，所以他迎合表现出这幅模样。</p><p>当然，我不是指反方四辩表现出的样子是一种迎合、是一种故意，我是支持这种创新的。只是我由此确实联想到了别的事情，一定有人知道适时的创新和反常规一定能够快速吸引眼球、为自己博得赞赏，是一种高维获胜的手段，这是一种投机主义。但再次强调，今天反方思辨的表现并不属于这种行为，因为辩论本身就是自由而并不追求有用，形式上的浪漫如果能与理性光芒相结合，对观众而言更是一种美的享受，更何况听到最后的时候我都感动了，而且她所举的例子和揭示的道理在我心里回响很久，我估计别的观众也都如此。</p><p>观赛和结束走在路上时，我都想到了其实国外很多学校是开放的，资源能够共享给外界，而今天我能看这场比赛，也是享受到了校友和交通的资源，作为校地双方，如果以后将学校和社会真正打通，推动各类学术、科技、活动资源链接内外，实现校区、社区联动发展，这种大学与当地互促发展的融合生态，一定能够大有作为。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些随想</title>
       <link href="/posts/yi-xie-sui-xiang.html"/>
       <url>/posts/yi-xie-sui-xiang.html</url>
@@ -96,9 +128,9 @@
       
         <tags>
             
-            <tag> 漫谈 </tag>
-            
             <tag> 随笔 </tag>
+            
+            <tag> 漫谈 </tag>
             
         </tags>
       
@@ -157,9 +189,9 @@
       
         <tags>
             
-            <tag> 漫谈 </tag>
-            
             <tag> 随笔 </tag>
+            
+            <tag> 漫谈 </tag>
             
             <tag> 行业 </tag>
             
@@ -271,19 +303,6 @@
             <tag> 随笔 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/posts/hello-world.html"/>
-      <url>/posts/hello-world.html</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
       
     </entry>
     
